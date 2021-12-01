@@ -5,6 +5,9 @@ In this project, we are going to make a Fire Alert System using ATMEGA8 microcon
 ## Code Quality
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/f5bd019a6eb0418dbba08a166a32a9ab)](https://www.codacy.com/gh/cedricxavi/M2_Fire_Alarm_System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cedricxavi/M2_Fire_Alarm_System&amp;utm_campaign=Badge_Grade)
 
+## Build Status 
+[![Build Status](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/compile.yml/badge.svg)](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/compile.yml)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
