@@ -17,3 +17,8 @@ Folder             | Description
 `4_Test_plan`      | Documents with test plans and procedures
 `5_Report`         | Documentation of whole project
 `6_Images`         | All the output images of this project
+
+
+| PS No. | Name | Issues Raised | Issues Resolved |
+|---|---|---|---|
+| `40020514` | Franklin Cedric J | 2 | 2 | 
