@@ -13,7 +13,8 @@ IR Based Fire sensors have lesser sensing vision, so we are going to mount the f
 6. 1KΩ resistor
 7. 220Ω resistor
 8. 100nF capacitor
-9. AVR-ISP PROGRAMMER
+9. 1000u capacitor
+10. AVR-ISP PROGRAMMER
 
 # Software Used
 1. SimulIDE
@@ -62,6 +63,8 @@ Depending upon the project how well it is built and all the requirements will me
 | HLR_5 | Capacitor | Implemented |
 | HLR_6 | Button | Implemented |
 | HLR_7 | AVR-ISP PROGRAMMER | Implemented |
+| HLR_8 | Sensor | Implemented |
+
 
 # Low Level Requirements
 | ID | Description | Status |
