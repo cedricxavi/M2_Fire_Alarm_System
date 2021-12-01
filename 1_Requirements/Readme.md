@@ -75,3 +75,4 @@ Depending upon the project how well it is built and all the requirements will me
 | LLR_7 | AVR-ISP PROGRAMMER | Implemented |
 | LLR_8 | Buzzer | Implemented |
 | LLR_9 | Button | Implemented |
+| LLR_10 | Fire Sensor | Implemented |
