@@ -80,5 +80,5 @@ Depending upon the project how well it is built and all the requirements will me
 | LLR_7 | 1000u capacitor | Implemented 
 | LLR_7 | AVR-ISP PROGRAMMER | Implemented |
 | LLR_8 | Buzzer | Implemented |
-| LLR_8 | Button | Implemented |
-| LLR_9 | Fire sensor | Implemented |
+| LLR_9 | Button | Implemented |
+| LLR_10 | Fire sensor | Implemented |
