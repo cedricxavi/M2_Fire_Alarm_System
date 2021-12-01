@@ -14,7 +14,8 @@ IR Based Fire sensors have lesser sensing vision, so we are going to mount the f
 6. 1KΩ resistor
 7. 220Ω resistor
 8. 100nF capacitor
-9. AVR-ISP PROGRAMMER
+9. 1000u capacitor 
+10. AVR-ISP PROGRAMMER
 
 # Software Used
 1. SimulIDE
@@ -53,7 +54,9 @@ Depending upon the project how well it is built and all the requirements will me
 1. It sense the fire and gives an alarm sound as an output.
 2. It will be helpful in preventing fire accidents in any places.
 
-# High Level Requirements
+
+# Detail requirements
+## High Level Requirements
 | ID | Description | Status |
 |---|---|---|
 | HLR_1 | Microcontroller | Implemented |
@@ -63,8 +66,9 @@ Depending upon the project how well it is built and all the requirements will me
 | HLR_5 | Capacitor | Implemented |
 | HLR_6 | Button | Implemented |
 | HLR_7 | AVR-ISP PROGRAMMER | Implemented |
+| HLR_8 | Sensor | Implemented |
 
-# Low Level Requirements
+## Low Level Requirements
 | ID | Description | Status |
 |---|---|---|
 | LLR_1 | ATmega328 | Implemented |
@@ -73,6 +77,8 @@ Depending upon the project how well it is built and all the requirements will me
 | LLR_4 | 1KΩ resistor | Implemented |
 | LLR_5 | 220Ω resistor | Implemented |
 | LLR_6 | 100nF capacitor | Implemented |
+| LLR_7 | 1000u capacitor | Implemented 
 | LLR_7 | AVR-ISP PROGRAMMER | Implemented |
 | LLR_8 | Buzzer | Implemented |
-| LLR_9 | Button | Implemented |
+| LLR_8 | Button | Implemented |
+| LLR_9 | Fire sensor | Implemented |
