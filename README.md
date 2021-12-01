@@ -8,6 +8,9 @@ In this project, we are going to make a Fire Alert System using ATMEGA8 microcon
 ## Build Status 
 [![Build Status](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/compile.yml/badge.svg)](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/compile.yml)
 
+## cppcheck
+[![Cppcheck](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/cppcheck.yml)
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
