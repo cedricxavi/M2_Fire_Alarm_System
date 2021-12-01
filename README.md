@@ -18,6 +18,7 @@ Folder             | Description
 `5_Report`         | Documentation of whole project
 `6_Images`         | All the output images of this project
 
+# Contributors List and Summary
 
 | PS No. | Name | Issues Raised | Issues Resolved |
 |---|---|---|---|
