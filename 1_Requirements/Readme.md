@@ -15,6 +15,7 @@ IR Based Fire sensors have lesser sensing vision, so we are going to mount the f
 8. 100nF capacitor
 9. 1000u capacitor
 10. AVR-ISP PROGRAMMER
+11. Fire sesnor
 
 # Software Used
 1. SimulIDE
