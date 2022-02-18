@@ -7,6 +7,8 @@ In this project, we are going to make a Fire Alert System using ATMEGA8 microcon
 |:--:|:--:|:--:|
 [![Build Status](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/compile.yml/badge.svg)](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/compile.yml) | [![Cppcheck](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/cppcheck.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/23635f1fa4184594a2995cb15649ab93)](https://www.codacy.com/gh/cedricxavi/M1_Application_Scientific_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=cedricxavi/M1_Application_Scientific_Calculator&amp;utm_campaign=Badge_Grade)
 
+## Git Inspector
+[![Contribution Check - Git Inspector](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/c-gitinspector.yml/badge.svg)](https://github.com/cedricxavi/M2_Fire_Alarm_System/actions/workflows/c-gitinspector.yml)
 
 ## Folder Structure
 Folder             | Description
